@@ -1,0 +1,1 @@
+"SecretShield uses an open-core licensing model. The scanning engine (core-engine), CLI (cli-wrapper), and IDE extensions (vscode-extension, vs-extension) are licensed under the MIT License (see core-engine/LICENSE). The commercial desktop application (desktop-app) is proprietary and all rights are reserved (see desktop-app/LICENSE)."
