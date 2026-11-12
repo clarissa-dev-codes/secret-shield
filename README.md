@@ -2,11 +2,6 @@
 
 **Real-time secret detection and automated `.env` remediation for traditional developers and AI-assisted ("vibe") coders.**
 
-[![Build Status](https://shields.io)]()
-[![Core Engine](https://shields.io)]()
-[![Desktop App](https://shields.io)]()
-[![Extensions](https://shields.io)]()
-
 ---
 
 ## The Problem
