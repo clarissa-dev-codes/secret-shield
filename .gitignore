@@ -1,0 +1,23 @@
+# Rust / Tauri build artifacts
+target/
+**/target/
+*.rs.bk
+
+# Node / VS Code / React dependencies
+node_modules/
+**/node_modules/
+dist/
+out/
+*.vsix
+
+# Visual Studio / C# build artifacts
+bin/
+obj/
+.vs/
+*.user
+
+# Environment & OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db
