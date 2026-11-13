@@ -25,13 +25,13 @@ SecretShield uses a **shared-core monorepo architecture** to avoid duplicating d
 
 ## Development Roadmap & Build Log
 
-### Phase 1: Core Detection Engine & CLI (In Progress)
-- [ ] Implement regex pattern matcher for major cloud & AI providers (OpenAI, AWS, GitHub, Stripe)
-- [ ] Build Shannon entropy analyzer to catch custom/unrecognized high-entropy tokens
-- [ ] Add `.gitignore` validation to alert when `.env` files are left untracked
-- [ ] Compile cross-platform CLI binaries (Windows, macOS, Linux) with JSON output
+### Phase 1: Core Detection Engine & CLI (Completed ✅)
+- [x] Implement regex pattern matcher for major cloud & AI providers (OpenAI, AWS, GitHub, Stripe)
+- [x] Build Shannon entropy analyzer to catch custom/unrecognized high-entropy tokens
+- [x] Add `.gitignore` validation to alert when `.env` files are left untracked
+- [x] Compile cross-platform CLI binaries (Windows, macOS, Linux) with JSON output
 
-### Phase 2: IDE Extensions (VS Code & Visual Studio)
+### Phase 2: IDE Extensions (VS Code & Visual Studio) (In Progress)
 - [ ] Build VS Code extension with `onDidSaveTextDocument` hooks and `DiagnosticCollection` markers
 - [ ] Build Visual Studio (C# VSIX) extension wired to the native Error List
 - [ ] Implement custom URI protocol (`secretshield://`) for one-click handoff to the Desktop App

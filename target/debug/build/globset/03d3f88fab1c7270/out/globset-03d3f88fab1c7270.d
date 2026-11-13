@@ -1,0 +1,10 @@
+/home/clarissa-edwards/Desktop/Coding/secret-shield/target/debug/build/globset/03d3f88fab1c7270/out/globset-03d3f88fab1c7270.d: /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/lib.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/fnv.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/glob.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/pathutil.rs
+
+/home/clarissa-edwards/Desktop/Coding/secret-shield/target/debug/build/globset/03d3f88fab1c7270/out/libglobset-03d3f88fab1c7270.rlib: /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/lib.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/fnv.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/glob.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/pathutil.rs
+
+/home/clarissa-edwards/Desktop/Coding/secret-shield/target/debug/build/globset/03d3f88fab1c7270/out/libglobset-03d3f88fab1c7270.rmeta: /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/lib.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/fnv.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/glob.rs /home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/pathutil.rs
+
+/home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/lib.rs:
+/home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/fnv.rs:
+/home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/glob.rs:
+/home/clarissa-edwards/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/globset-0.4.21/src/pathutil.rs:
