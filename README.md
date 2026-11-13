@@ -20,7 +20,7 @@ SecretShield uses a **shared-core monorepo architecture** to avoid duplicating d
 
 ## Development Roadmap & Build Log
 
-### Phase 1: Core Detection Engine & CLI (Completed ✅)
+### Phase 1: Core Detection Engine & CLI (Completed)
 - [x] Implement regex pattern matcher for major cloud & AI providers (OpenAI, AWS, GitHub, Stripe)
 - [x] Build Shannon entropy analyzer to catch custom/unrecognized high-entropy tokens
 - [x] Add `.gitignore` validation to alert when `.env` files are left untracked
